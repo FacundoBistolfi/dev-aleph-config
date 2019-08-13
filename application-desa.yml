@@ -65,7 +65,7 @@ aleph:
     sid: ALEPHDBD1
   
   redis:
-    host: argalephdockerd1
+    host: 10.161.237.174
     
   oauth:
     context-path: /aleph-oauth
